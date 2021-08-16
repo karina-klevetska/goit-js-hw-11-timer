@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background: #000000;
+  font-family: sans-serif;
+}
+
+.title {
+  color: rgb(255, 255, 255);
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+
+.description {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+}
+
+.timer {
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  font-size: 30px;
+}
+
+.field {
+  padding: 10px;
+  border-radius: 3px;
+  background: #7b807e;
+  display: inline-block;
+}
+
+.value {
+  padding: 15px;
+  border-radius: 3px;
+  background: #2d3130;
+  display: inline-block;
+}
+
+.label {
+  display: block;
+  padding-top: 5px;
+  font-size: 16px;
+}
